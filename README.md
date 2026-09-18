@@ -1,171 +1,131 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════ -->
-<!-- 🚀 HEADER BANNER & TERMINAL WELCOME                     -->
+<!-- 🩸 UAC COMMAND BANNER & PRAETOR OPERATING SYSTEM        -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
 <a href="https://github.com/Siva06062005">
-  <img src="https://raw.githubusercontent.com/Siva06062005/Siva06062005/main/assets/banner.jpg" alt="Siva S — DevOps Architect" width="100%" />
+  <img src="https://raw.githubusercontent.com/Siva06062005/Siva06062005/main/assets/banner.jpg" alt="Siva S — DevOps Engineer | Cloud Infrastructure | Automation" width="100%" />
 </a>
 
 <br/><br/>
 
-<!-- ANIMATED TYPING SVG -->
+<!-- ANIMATED DOOM HUD TYPING SVG (ORBITRON FONT) -->
 <a href="https://siva-doom-portfolio.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=110&lines=%E2%9A%A1+Initializing+Siva's+DevOps+Console...;%F0%9F%9A%80+Architecting+Scalable+Cloud+Infrastructure;%E2%99%BB%EF%B8%8F+Automating+Pipelines+with+Terraform+%26+Jenkins;%F0%9F%90%B3+Containerizing+Systems+with+Docker+%26+Linux;%F0%9F%92%A1+Innovating+with+Blockchain+%26+Applied+AI" alt="Dynamic Status" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=1000&color=FF0033&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=110&lines=%E2%9A%A1+UAC+TERMINAL+ONLINE+%3A%3A+INITIALIZING+SIVA%27S+DEVOPS+SYSTEM...;%F0%9F%94%A5+RIP+%26+TEAR+THROUGH+DOWNTIME+%3A%3A+SCALABLE+CLOUD+INFRASTRUCTURE;%E2%9A%94%EF%B8%8F+IMMUTABLE+PIPELINE+AUTOMATION+WITH+TERRAFORM+%26+JENKINS;%F0%9F%9B%A1%EF%B8%8F+CONTAINERIZING+DISTRIBUTED+SYSTEMS+WITH+DOCKER+%26+LINUX;%E2%9A%A1+HIGH-PERFORMANCE+INNOVATION+WITH+BLOCKCHAIN+%26+APPLIED+AI" alt="DOOM Terminal Status" />
 </a>
 
 <br/>
 
-<!-- TOP STATUS BADGES -->
+<!-- TOP STATUS BADGES (DOOM PALETTE) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00F0FF?style=for-the-badge&logo=codeforces&logoColor=black" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-FF0033?style=for-the-badge&logo=target&logoColor=white" />
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Siva06062005&label=PROFILE_TRAFFIC&color=FF007F&style=for-the-badge" alt="Profile Hits" />
+  <img src="https://komarev.com/ghpvc/?username=Siva06062005&label=TELEMETRY_PULSE&color=FF5500&style=for-the-badge" alt="Profile Telemetry" />
   &nbsp;
-  <img src="https://img.shields.io/badge/LOCATION-ARAKKONAM%2C_IN-7928CA?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/BASE-ARAKKONAM%2C_IN-8B0000?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
-<!-- ACTION BUTTONS -->
+<!-- ACTION COMM LINKS -->
 <p align="center">
   <a href="https://siva-doom-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-LIVE_DEMO-00E599?style=for-the-badge&logo=vercel&logoColor=black" />
+    <img src="https://img.shields.io/badge/DOOM_PORTFOLIO-ENTER_THE_GATE-FF0033?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:sivasathiya0606@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL_DIRECT-sivasathiya0606-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/COMM_LINK-sivasathiya0606-FF5500?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/Siva06062005?tab=repositories">
-    <img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/ARMORY_REPOS-INSPECT-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0033,50:FF5500,100:880000&height=3" width="100%" />
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
-<!-- 📡 SYSTEM TERMINAL & ABOUT ME                           -->
+<!-- 💀 PRAETOR DOSSIER & OPERATING OBJECTIVE                -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> `root@siva:~# whoami`
+## 💀 `uac@siva:~# cat /proc/slayer_dossier`
 
-<img align="right" alt="Cyberpunk Matrix" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+```ini
+[!] UAC OPERATOR IDENTIFICATION
+    OPERATOR     : Siva S
+    DESIGNATION  : DevOps & Cloud Infrastructure Engineer
+    LOCATION     : Arakkonam, Tamil Nadu, India
+    ACADEMIC     : B.E. Computer Science @ Sriram Engineering College ('26)
+    STANDARDS    : 80% Academic CGPA
+    CORE WEAPONRY: IaC (Terraform) • CI/CD (Jenkins) • Docker • Linux Kernel Hardening
 
-```bash
-[+] SYSTEM IDENTITY
-    NAME        : Siva S
-    ROLE        : DevOps & Cloud Infrastructure Engineer
-    EDUCATION   : B.E. Computer Science @ Sriram Engineering College ('26)
-    METRIC      : 80% Academic CGPA
-    LOCATION    : Arakkonam, Tamil Nadu, India
-    SPECIALTY   : IaC (Terraform) • CI/CD (Jenkins) • Docker • Linux Optimization
-
-[+] CORE OPERATING OBJECTIVE
-    Engineering resilient, scalable infrastructure with automated zero-downtime
-    deployment workflows, robust cloud architecture, and secure containerization.
+[!] OPERATIONAL DIRECTIVE
+    "Rip and tear through downtime." Slaying latency and architectural chaos by 
+    forging battle-tested, high-availability cloud infrastructure, immutable 
+    zero-downtime deployment pipelines, and hardened containerized microservices.
 ```
 
 - ⚙️ **Infrastructure as Code**: Production-grade orchestration with **Terraform** & **Docker Compose**
 - 🔄 **Continuous Integration/Deployment**: Automated pipeline governance with **Jenkins** & **GitHub Actions**
 - ☁️ **Cloud Native Ecosystems**: Multi-platform delivery across **AWS (EC2, S3, Beanstalk)**, **GCP**, and **Hostinger**
-- 🐧 **Kernel & OS Administration**: Deep Linux optimization on **Ubuntu Server**, **Kali**, and **EFI/GRUB management**
-- ⛓️ **Web3 & Decentralization**: Smart contracts on **Ethereum**, tested with **Hardhat** & authored in **Solidity**
-- 🧠 **Applied Intelligence**: Interpretable machine learning utilizing **Scikit-learn**, **SHAP**, **LIME**, and **NLP**
+- 🐧 **Kernel & OS Hardening**: Deep Linux administration on **Ubuntu Server**, **Kali**, and **EFI/GRUB tuning**
+- ⛓️ **Web3 & Decentralized Ledgers**: Immutable smart contracts on **Ethereum**, authored in **Solidity** & tested with **Hardhat**
+- 🧠 **Applied Machine Intelligence**: Interpretable ML utilizing **Scikit-learn**, **SHAP**, **LIME**, and **NLP workflows**
 
-<br clear="both"/>
+<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0033,50:FF5500,100:880000&height=3" width="100%" />
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
-<!-- ⚡ TECH STACK MATRIX                                    -->
+<!-- ⚡ PRAETOR ARSENAL (TECH MATRIX)                        -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack Matrix
+## ⚡ Combat Arsenal & Tech Matrix
 
 <div align="center">
 
-### ☁️ Cloud & DevOps Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,terraform,jenkins,linux,ubuntu" alt="Cloud and DevOps" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,terraform,jenkins,linux,ubuntu,bash&theme=dark" alt="Cloud & DevOps Weaponry" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elastic_Beanstalk-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD_Pipelines-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/EFI%2FGRUB_Tuning-333333?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,solidity,react,flask,html,css&theme=dark" alt="Languages & Frameworks" />
 </p>
 
----
+<br/>
 
-### 💻 Core Languages & Databases
+<!-- SPECIALIZED TACTICAL CAPABILITIES -->
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,bash,solidity,mysql" alt="Languages and DB" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/SQL_Database-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solidity_SmartContracts-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-</p>
-
----
-
-### 🌐 Frontend & Backend Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=react,flask,html,css" alt="Web Tech" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flask_REST_API-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java_Backend-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
-
----
-
-### ⛓️ Web3 & Blockchain Engineering
-<p>
-  <img src="https://skillicons.dev/icons?i=ethereum,solidity" alt="Blockchain" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Hardhat_Framework-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" />
-  <img src="https://img.shields.io/badge/dApp_Architecture-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Decentralized_Ledgers-111111?style=for-the-badge&logo=web3dotjs&logoColor=white" />
-</p>
-
----
-
-### 🤖 AI, Explainability & Data Science
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Explainable_AI_(SHAP)-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LIME_Interpretability-76B900?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RFM_Analytics-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/K--Means_Clustering-FF4081?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP_Workflows-4EA94B?style=for-the-badge&logo=spacy&logoColor=white" />
+  <img src="https://img.shields.io/badge/IAC-TERRAFORM_BLUEPRINTS-FF0033?style=flat-square&logo=terraform&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CI%2FCD-JENKINS_AUTOMATION-FF5500?style=flat-square&logo=jenkins&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CONTAINERS-DOCKER_COMPOSE-00D4FF?style=flat-square&logo=docker&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/BLOCKCHAIN-HARDHAT_%26_SOLIDITY-FFB800?style=flat-square&logo=ethereum&logoColor=black" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/EXPLAINABLE_AI-SHAP_%26_LIME-FF0055?style=flat-square&logo=python&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LINUX-KERNEL_HARDENING-333333?style=flat-square&logo=linux&logoColor=white" />
 </p>
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0033,50:FF5500,100:880000&height=3" width="100%" />
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
-<!-- 💼 EXPERIENCE TIMELINE                                  -->
+<!-- 🎖️ BATTLE-TESTED EXPERIENCE LOG                         -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Experience Timeline
+## 🎖️ Battle-Tested Experience Log
 
 <table width="100%">
 <tr>
@@ -173,10 +133,10 @@
 
 ### 🔧 DevOps Intern — Burj Tech Consultancy
 `Jan 2026 – Mar 2026 • Arakkonam, India`
-- ⚡ Engineered **Terraform** blueprints for declarative, reproducible cloud provisioning.
-- 🔄 Built high-speed **CI/CD build-test-deploy pipelines** using **Jenkins**.
+- ⚡ Engineered **Terraform** blueprints for declarative, reproducible multi-cloud provisioning.
+- 🔄 Built automated **CI/CD build-test-deploy pipelines** using **Jenkins** for rapid releases.
 - 🐳 Configured **Docker Compose** architectures for containerized microservice workflows.
-- 🐧 Spearheaded **Ubuntu kernel & server tuning** to reduce latency and resource bottlenecks.
+- 🐧 Spearheaded **Ubuntu kernel & server tuning** to eliminate latency and eradicate bottlenecks.
 - 🔍 Led systematic root-cause investigations resolving infrastructure and networking crashes.
 
 ---
@@ -190,8 +150,8 @@
 
 ### 📊 Data Science Intern — Remark Skill Education (IIT Hyderabad)
 `Apr 2025 – May 2025 • Remote`
-- 🐍 Engineered automated Python ETL scripts cutting down preprocessing time significantly.
-- 🎯 Trained predictive machine learning classifiers using **Scikit-learn** to generate strategic business intelligence.
+- 🐍 Engineered automated Python ETL scripts cutting down preprocessing runtimes significantly.
+- 🎯 Trained predictive machine learning classifiers using **Scikit-learn** to generate business intelligence.
 
 </td>
 </tr>
@@ -199,19 +159,19 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0033,50:FF5500,100:880000&height=3" width="100%" />
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
-<!-- 🚀 FEATURED HIGHLIGHTED PROJECTS                        -->
+<!-- 🚀 CLASSIFIED & HIGHLIGHTED DEPLOYMENTS                 -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
+## 🚀 Key Deployments & Field Projects
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
@@ -221,7 +181,7 @@
 
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
 <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
-<img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black" />
+<img src="https://img.shields.io/badge/Hardhat-FFB800?style=flat-square&logo=hardhat&logoColor=black" />
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
 
@@ -232,28 +192,26 @@ A transparent community governance platform pairing an immutable Ethereum blockc
 <br/>
 
 📅 *May 2026*  
-👉 [**Explore Smart-Panchayat Repository**](https://github.com/Siva06062005/Smart-Panchayat)
+👉 [**Inspect Smart-Panchayat Repository**](https://github.com/Siva06062005/Smart-Panchayat)
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🤖 Genious Shoppy
-**Explainable AI E-Commerce Analytics**
+### 🌐 Siva Doom Portfolio
+**Personal Cyber-Themed Fortress**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/XAI_(SHAP)-FF6F00?style=flat-square" />
-<img src="https://img.shields.io/badge/LIME-76B900?style=flat-square" />
-<img src="https://img.shields.io/badge/RFM_Clustering-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Live_Deployment-FF0033?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Theme-DOOM_Aesthetic-8B0000?style=flat-square" />
 
 <br/><br/>
 
-An analytical e-commerce engine leveraging Explainable AI (SHAP & LIME) to demystify customer segmentation algorithms. Features automated Python backend jobs for real-time campaign triggers and pricing recommendations.
+Interactive, futuristic cyber-fortress portfolio showcasing mission history, technical competencies, resume telemetry, and encrypted contact mechanisms.
 
 <br/>
 
-📅 *July 2025*  
-*(Source available upon request)*
+🔗 [**Launch Doom Portfolio**](https://siva-doom-portfolio.vercel.app)
 
 </td>
 
@@ -263,10 +221,30 @@ An analytical e-commerce engine leveraging Explainable AI (SHAP & LIME) to demys
 
 <td width="50%" valign="top">
 
+### 🤖 Genious Shoppy
+**Explainable AI E-Commerce Analytics**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/XAI-SHAP-FF5500?style=flat-square" />
+<img src="https://img.shields.io/badge/LIME-Interpretability-76B900?style=flat-square" />
+<img src="https://img.shields.io/badge/RFM-Clustering-8B5CF6?style=flat-square" />
+
+<br/><br/>
+
+An analytical e-commerce engine leveraging Explainable AI (SHAP & LIME) to demystify customer segmentation algorithms. Automated Python backend jobs deliver real-time campaign triggers and dynamic recommendations.
+
+<br/>
+
+📅 *July 2025* • 🔒 *Client / Enterprise Architecture*
+
+</td>
+
+<td width="50%" valign="top">
+
 ### ☁️ Cloud-Native E-Commerce Platform
 **High-Availability Distributed Web App**
 
-<img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_S3-FF5500?style=flat-square&logo=amazons3&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -277,26 +255,7 @@ A hardened e-commerce web platform engineered with Flask and MySQL, architected 
 
 <br/>
 
-📅 *April 2025*  
-*(Source available upon request)*
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌐 Siva Doom Portfolio
-**Personal Cyber-Themed Portfolio**
-
-<img src="https://img.shields.io/badge/Live_Deployment-00E599?style=flat-square&logo=vercel&logoColor=black" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-
-<br/><br/>
-
-Interactive, futuristic web portfolio presenting projects, technical proficiencies, resume highlights, and direct contact mechanisms.
-
-<br/>
-
-🔗 [**Launch Portfolio Website**](https://siva-doom-portfolio.vercel.app)
+📅 *April 2025* • 🔒 *Client / Enterprise Architecture*
 
 </td>
 
@@ -307,81 +266,74 @@ Interactive, futuristic web portfolio presenting projects, technical proficienci
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0033,50:FF5500,100:880000&height=3" width="100%" />
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
-<!-- 📊 GITHUB METRICS & RADAR                               -->
+<!-- 📡 TELEMETRY RADAR & CONTRIBUTION ACTIVITY             -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Telemetry & Activity
+## 📡 Live Telemetry & Combat Records
 
 <div align="center">
 
 <a href="https://github.com/Siva06062005">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Siva06062005&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=05050A&title_color=00F0FF&icon_color=FF007F&text_color=E0E0E0" alt="GitHub Stats" />
+  <img height="185em" src="https://github-readme-stats-fast.vercel.app/api?username=Siva06062005&show_icons=true&hide_border=true&bg_color=0C0A0D&title_color=FF0033&icon_color=FF5500&text_color=E0D8D8" alt="GitHub Stats" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Siva06062005">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siva06062005&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=05050A&title_color=00F0FF&text_color=E0E0E0" alt="Top Languages" />
+  <img height="185em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Siva06062005&layout=compact&langs_count=8&hide_border=true&bg_color=0C0A0D&title_color=FF0033&text_color=E0D8D8" alt="Top Languages" />
 </a>
 
 <br/><br/>
 
-<!-- STREAK STATS -->
+<!-- DOOM STREAK STATS -->
 <a href="https://github.com/Siva06062005">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siva06062005&theme=radical&hide_border=true&background=05050A&stroke=00F0FF&ring=FF007F&fire=00F0FF&currStreakLabel=00F0FF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Siva06062005&hide_border=true&background=0C0A0D&stroke=FF0033&ring=FF5500&fire=FF0033&currStreakLabel=FF0033&currStreakNum=FFFFFF" alt="GitHub Streak" />
 </a>
 
 <br/><br/>
 
-<!-- ACTIVITY GRAPH -->
+<!-- 🐍 CONTRIBUTION SNAKE EATER (FROM ASSETS) -->
 <a href="https://github.com/Siva06062005">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siva06062005&theme=radical&hide_border=true&bg_color=05050A&color=00F0FF&line=FF007F&point=00F0FF" alt="Contribution Graph" />
-</a>
-
-<br/><br/>
-
-<!-- TROPHIES -->
-<a href="https://github.com/Siva06062005">
-  <img src="https://github-profile-trophy.vercel.app/?username=Siva06062005&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
+  <img src="https://raw.githubusercontent.com/Siva06062005/Siva06062005/main/assets/github-contribution-grid-snake-dark.svg" alt="Siva's Realtime Contribution Snake Grid" width="100%" />
 </a>
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0033,50:FF5500,100:880000&height=3" width="100%" />
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
-<!-- 🎓 ACADEMICS & COMPETENCIES                             -->
+<!-- 🎓 ACADEMIC RECORD                                      -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## 🎓 Academic Blueprint
+## 🎓 Academic Dossier
 
 <table width="100%">
 <tr>
 <td width="50%">
 
-### 🏛️ University
+### 🏛️ Institution
 **Sriram Engineering College**  
-*Perumalpattu, Tamil Nadu*  
+*Perumalpattu, Tamil Nadu, India*  
 - **Degree**: Bachelor of Engineering (B.E.)
-- **Department**: Computer Science and Engineering
+- **Discipline**: Computer Science and Engineering
 - **Graduation**: Class of May 2026
-- **Performance**: **80% CGPA**
+- **Standing**: **80% CGPA**
 
 </td>
 <td width="50%">
 
 ### 🧠 Core Competencies
-- **Architecture**: Critical Thinking & Systems Analysis
-- **Execution**: Troubleshooting & Root-Cause Elimination
-- **Governance**: Collaborative Team Leadership
-- **Communication**: English (Professional) • Tamil (Native)
+- **Infrastructure Architecture**: Systems Analysis & Automated Resilience
+- **Execution**: Rapid Root-Cause Elimination & Zero Downtime
+- **Leadership**: Technical Governance & Team Collaboration
+- **Linguistics**: English (Professional) • Tamil (Native)
 
 </td>
 </tr>
@@ -389,33 +341,33 @@ Interactive, futuristic web portfolio presenting projects, technical proficienci
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0033,50:FF5500,100:880000&height=3" width="100%" />
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
-<!-- 🤝 TERMINAL FOOTER & CONNECT                            -->
+<!-- ⚔️ ESTABLISH UPLINK & CONNECT                           -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 📡 Initialize Direct Connection
+## ⚔️ Establish Encrypted Uplink
 
 <a href="https://github.com/Siva06062005" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-Siva06062005-00F0FF?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/GITHUB-Siva06062005-FF0033?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://siva-doom-portfolio.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/PORTFOLIO-VIEW_ONLINE-FF007F?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/DOOM_PORTFOLIO-LAUNCH_GATE-FF5500?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:sivasathiya0606@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-DIRECT_CONTACT-7928CA?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/ENCRYPTED_MAIL-sivasathiya0606-8B0000?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<!-- GLOWING FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=160&section=footer&text=SIVA%20S%20%7C%20BUILDING%20FOR%20THE%20FUTURE&fontSize=22&fontColor=00F0FF&animation=twinkling&fontAlignY=68" width="100%" />
+<!-- DOOM HELLFIRE FOOTER WAVE (ORBITRON FONT) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0033,50:880000,100:0C0A0D&height=160&section=footer&text=SIVA%20S%20%7C%20SLAYING%20DOWNTIME%20WITH%20CODE&fontSize=22&fontColor=FFFFFF&font=Orbitron&animation=twinkling&fontAlignY=68" width="100%" />
 
 </div>
