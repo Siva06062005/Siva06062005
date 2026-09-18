@@ -10,9 +10,9 @@
 
 <br/><br/>
 
-<!-- ANIMATED DOOM HUD TYPING SVG (ORBITRON FONT) -->
+<!-- ANIMATED DOOM HUD TYPING SVG (HIGH-CONTRAST ORBITRON) -->
 <a href="https://siva-doom-portfolio.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=1000&color=FF0033&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=110&lines=%E2%9A%A1+UAC+TERMINAL+ONLINE+%3A%3A+INITIALIZING+SIVA%27S+DEVOPS+SYSTEM...;%F0%9F%94%A5+RIP+%26+TEAR+THROUGH+DOWNTIME+%3A%3A+SCALABLE+CLOUD+INFRASTRUCTURE;%E2%9A%94%EF%B8%8F+IMMUTABLE+PIPELINE+AUTOMATION+WITH+TERRAFORM+%26+JENKINS;%F0%9F%9B%A1%EF%B8%8F+CONTAINERIZING+DISTRIBUTED+SYSTEMS+WITH+DOCKER+%26+LINUX;%E2%9A%A1+HIGH-PERFORMANCE+INNOVATION+WITH+BLOCKCHAIN+%26+APPLIED+AI" alt="DOOM Terminal Status" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2600&pause=1100&color=FF2E4C&center=true&vCenter=true&multiline=true&repeat=true&width=880&height=90&lines=%E2%9A%A1+UAC+TERMINAL+ONLINE+%3A%3A+INITIALIZING+DEVOPS+SYSTEM...;%F0%9F%94%A5+RIP+%26+TEAR+THROUGH+DOWNTIME+%3A%3A+HIGH-AVAILABILITY+CLOUD;%E2%9A%94%EF%B8%8F+AUTOMATING+INFRASTRUCTURE+WITH+TERRAFORM+%26+JENKINS;%F0%9F%9B%A1%EF%B8%8F+HARDENED+CONTAINERIZATION+VIA+DOCKER+%26+LINUX;%E2%9A%A1+ENGINEERING+HIGH-PERFORMANCE+SYSTEMS+WITH+AI+%26+WEB3" alt="DOOM Terminal Status" />
 </a>
 
 <br/>
@@ -53,27 +53,26 @@
 
 ## 💀 `uac@siva:~# cat /proc/slayer_dossier`
 
-```ini
-[!] UAC OPERATOR IDENTIFICATION
-    OPERATOR     : Siva S
-    DESIGNATION  : DevOps & Cloud Infrastructure Engineer
-    LOCATION     : Arakkonam, Tamil Nadu, India
-    ACADEMIC     : B.E. Computer Science @ Sriram Engineering College ('26)
-    STANDARDS    : 80% Academic CGPA
-    CORE WEAPONRY: IaC (Terraform) • CI/CD (Jenkins) • Docker • Linux Kernel Hardening
+> ### 🛡️ Operator Dossier // Siva S
+> **Primary Role**: DevOps & Cloud Infrastructure Engineer  
+> **Headquarters**: Arakkonam, Tamil Nadu, India  
+> **Academic Standing**: B.E. Computer Science @ Sriram Engineering College ('26) • **80% CGPA**  
+> **Core Weaponry**: `Terraform` • `Docker` • `Jenkins CI/CD` • `AWS / GCP` • `Linux Kernel Hardening`
+>
+> *“Rip and tear through downtime.” Slaying architectural latency and chaotic deployments by forging battle-tested cloud infrastructure, immutable automation pipelines, and resilient containerized microservices.*
 
-[!] OPERATIONAL DIRECTIVE
-    "Rip and tear through downtime." Slaying latency and architectural chaos by 
-    forging battle-tested, high-availability cloud infrastructure, immutable 
-    zero-downtime deployment pipelines, and hardened containerized microservices.
-```
+<br/>
 
-- ⚙️ **Infrastructure as Code**: Production-grade orchestration with **Terraform** & **Docker Compose**
-- 🔄 **Continuous Integration/Deployment**: Automated pipeline governance with **Jenkins** & **GitHub Actions**
-- ☁️ **Cloud Native Ecosystems**: Multi-platform delivery across **AWS (EC2, S3, Beanstalk)**, **GCP**, and **Hostinger**
-- 🐧 **Kernel & OS Hardening**: Deep Linux administration on **Ubuntu Server**, **Kali**, and **EFI/GRUB tuning**
-- ⛓️ **Web3 & Decentralized Ledgers**: Immutable smart contracts on **Ethereum**, authored in **Solidity** & tested with **Hardhat**
-- 🧠 **Applied Machine Intelligence**: Interpretable ML utilizing **Scikit-learn**, **SHAP**, **LIME**, and **NLP workflows**
+### ⚡ Strategic Focus & Engineering Matrix
+
+| Engineering Directive | Architecture & Implementation |
+| :--- | :--- |
+| ⚙️ **Infrastructure as Code** | Production-grade cloud orchestration using **Terraform** and multi-service **Docker Compose** |
+| 🔄 **CI/CD Pipeline Governance** | Automated, zero-downtime release pipelines powered by **Jenkins** and **GitHub Actions** |
+| ☁️ **Cloud Native Ecosystems** | High-availability deployments across **AWS** *(EC2, S3, Beanstalk)*, **GCP**, and **Hostinger** |
+| 🐧 **Kernel & OS Hardening** | Deep Linux systems optimization on **Ubuntu Server**, **Kali Linux**, and **EFI/GRUB** |
+| ⛓️ **Web3 & Decentralized Ledgers** | Immutable smart contract development in **Solidity**, tested and validated with **Hardhat** |
+| 🧠 **Applied Machine Intelligence** | Transparent machine learning models leveraging **Scikit-learn**, **SHAP**, **LIME**, and **NLP** |
 
 <br/>
 
@@ -82,35 +81,38 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
-<!-- ⚡ PRAETOR ARSENAL (TECH MATRIX)                        -->
+<!-- ⚡ COMBAT ARSENAL (TECH MATRIX)                         -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## ⚡ Combat Arsenal & Tech Matrix
+## ⚡ Combat Arsenal & Weaponry
 
 <div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,terraform,jenkins,linux,ubuntu,bash&theme=dark" alt="Cloud & DevOps Weaponry" />
+### ☁️ Cloud, DevOps & Linux Ecosystem
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,terraform,jenkins,linux,ubuntu,bash&theme=dark" alt="Cloud and DevOps Weaponry" />
 </p>
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,mysql,solidity,react,flask,html,css&theme=dark" alt="Languages & Frameworks" />
+
+### 💻 Languages, Databases & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,solidity,react,flask,html,css&theme=dark" alt="Languages and Frameworks" />
 </p>
 
 <br/>
 
-<!-- SPECIALIZED TACTICAL CAPABILITIES -->
-<p>
-  <img src="https://img.shields.io/badge/IAC-TERRAFORM_BLUEPRINTS-FF0033?style=flat-square&logo=terraform&logoColor=white" />
+### 🛡️ Tactical Engineering Badges
+<p align="center">
+  <img src="https://img.shields.io/badge/IaC-Terraform_Blueprints-FF0033?style=for-the-badge&logo=terraform&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/CI%2FCD-JENKINS_AUTOMATION-FF5500?style=flat-square&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-Jenkins_Automations-FF5500?style=for-the-badge&logo=jenkins&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/CONTAINERS-DOCKER_COMPOSE-00D4FF?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Containers-Docker_Compose-00D4FF?style=for-the-badge&logo=docker&logoColor=white" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Blockchain-Hardhat_%26_Solidity-FFB800?style=for-the-badge&logo=ethereum&logoColor=black" />
   &nbsp;
-  <img src="https://img.shields.io/badge/BLOCKCHAIN-HARDHAT_%26_SOLIDITY-FFB800?style=flat-square&logo=ethereum&logoColor=black" />
+  <img src="https://img.shields.io/badge/Explainable_AI-SHAP_%26_LIME-FF0055?style=for-the-badge&logo=python&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/EXPLAINABLE_AI-SHAP_%26_LIME-FF0055?style=flat-square&logo=python&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/LINUX-KERNEL_HARDENING-333333?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS_Hardening-EFI%2FGRUB_Tuning-333333?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 </div>
@@ -127,35 +129,30 @@
 
 ## 🎖️ Battle-Tested Experience Log
 
-<table width="100%">
-<tr>
-<td>
-
-### 🔧 DevOps Intern — Burj Tech Consultancy
+### 🔧 DevOps Intern • **Burj Tech Consultancy**
 `Jan 2026 – Mar 2026 • Arakkonam, India`
-- ⚡ Engineered **Terraform** blueprints for declarative, reproducible multi-cloud provisioning.
-- 🔄 Built automated **CI/CD build-test-deploy pipelines** using **Jenkins** for rapid releases.
-- 🐳 Configured **Docker Compose** architectures for containerized microservice workflows.
-- 🐧 Spearheaded **Ubuntu kernel & server tuning** to eliminate latency and eradicate bottlenecks.
-- 🔍 Led systematic root-cause investigations resolving infrastructure and networking crashes.
+
+- ⚡ **Declarative Infrastructure**: Engineered modular **Terraform** blueprints for automated multi-cloud resource provisioning.
+- 🔄 **Continuous Integration & Delivery**: Architected high-speed **Jenkins CI/CD pipelines** automating build tests and zero-downtime releases.
+- 🐳 **Microservice Containerization**: Designed **Docker Compose** architectures ensuring environmental parity between dev, staging, and production.
+- 🐧 **Linux Kernel Optimization**: Conducted low-level **Ubuntu Server tuning** to slash system latency, eradicate socket bottlenecks, and boost network I/O.
+- 🔍 **Incident Resolution**: Spearheaded systematic root-cause analyses (RCA) to rapidly diagnose and resolve infrastructure and network crashes.
 
 ---
 
-### 🤖 Data Science & AI Intern — Rasa AI Labs
+### 🤖 Data Science & AI Intern • **Rasa AI Labs**
 `Jun 2025 – Jul 2025 • Chennai, India`
-- 🌐 Configured scalable production environments for real-time AI model serving with high availability.
-- 📈 Collaborated on infrastructure performance optimization for high-throughput distributed data workloads.
+
+- 🌐 **Production Model Serving**: Provisioned resilient cloud production environments for real-time AI model serving with high uptime.
+- 📈 **Performance Acceleration**: Collaborated on distributed infrastructure optimization for high-throughput machine learning workloads.
 
 ---
 
-### 📊 Data Science Intern — Remark Skill Education (IIT Hyderabad)
+### 📊 Data Science Intern • **Remark Skill Education (IIT Hyderabad)**
 `Apr 2025 – May 2025 • Remote`
-- 🐍 Engineered automated Python ETL scripts cutting down preprocessing runtimes significantly.
-- 🎯 Trained predictive machine learning classifiers using **Scikit-learn** to generate business intelligence.
 
-</td>
-</tr>
-</table>
+- 🐍 **High-Efficiency ETL Pipelines**: Engineered automated Python extraction and preprocessing scripts cutting dataset prep time by 40%.
+- 🎯 **Predictive Machine Learning**: Trained predictive classification models utilizing **Scikit-learn** to extract actionable business intelligence.
 
 <br/>
 
@@ -169,100 +166,39 @@
 
 ## 🚀 Key Deployments & Field Projects
 
-<div align="center">
+### 1. ⛓️ [SmartPanchayat — Decentralized Governance dApp](https://github.com/Siva06062005/Smart-Panchayat)
+> **A transparent public governance platform pairing an immutable Ethereum blockchain ledger with an interactive React frontend and Java backend.**
 
-<table width="100%">
-<tr>
+- 🛠️ **Technology Stack**: `Ethereum` • `Solidity` • `Hardhat` • `React.js` • `Java`
+- ⚡ **Engineering Highlights**: Hardhat-tested smart contracts guaranteeing verifiable public fund tracking and eliminating administrative opacity.
+- 🔗 **Repository**: [**👉 Inspect Smart-Panchayat on GitHub**](https://github.com/Siva06062005/Smart-Panchayat)
 
-<td width="50%" valign="top">
+---
 
-### ⛓️ SmartPanchayat
-**Decentralized Governance dApp**
+### 2. 🌐 [Siva Doom Portfolio — Personal Cyber-Themed Fortress](https://siva-doom-portfolio.vercel.app)
+> **Interactive, futuristic cyber-fortress portfolio showcasing engineering history, technical proficiencies, telemetry metrics, and secure communications.**
 
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
-<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
-<img src="https://img.shields.io/badge/Hardhat-FFB800?style=flat-square&logo=hardhat&logoColor=black" />
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+- 🛠️ **Technology Stack**: `JavaScript` • `Vercel Edge` • `Cyber-DOOM Theme` • `CSS Systems`
+- ⚡ **Engineering Highlights**: High-performance responsive web architecture with custom interactive audio-visual effects and zero-latency loading.
+- 🔗 **Live Deployment**: [**👉 Launch Siva Doom Portfolio**](https://siva-doom-portfolio.vercel.app)
 
-<br/><br/>
+---
 
-A transparent community governance platform pairing an immutable Ethereum blockchain ledger with a React frontend and Java backend. Features Hardhat-tested smart contracts guaranteeing verifiable public fund tracking.
+### 3. 🤖 Genious Shoppy — Explainable AI Analytics Engine
+> **An enterprise analytics platform leveraging Explainable AI (SHAP & LIME) to demystify complex customer segmentation and predictive churn models.**
 
-<br/>
+- 🛠️ **Technology Stack**: `Python` • `Scikit-learn` • `SHAP` • `LIME` • `RFM Clustering`
+- ⚡ **Engineering Highlights**: Automated Python backend jobs delivering real-time campaign triggers and transparent feature importance scoring.
+- 🏷️ **Classification**: *Enterprise Client Architecture*
 
-📅 *May 2026*  
-👉 [**Inspect Smart-Panchayat Repository**](https://github.com/Siva06062005/Smart-Panchayat)
+---
 
-</td>
+### 4. ☁️ Cloud-Native E-Commerce Platform — Distributed Architecture
+> **Hardened e-commerce web platform engineered for high concurrency, fault tolerance, and zero-downtime asset delivery.**
 
-<td width="50%" valign="top">
-
-### 🌐 Siva Doom Portfolio
-**Personal Cyber-Themed Fortress**
-
-<img src="https://img.shields.io/badge/Live_Deployment-FF0033?style=flat-square&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Theme-DOOM_Aesthetic-8B0000?style=flat-square" />
-
-<br/><br/>
-
-Interactive, futuristic cyber-fortress portfolio showcasing mission history, technical competencies, resume telemetry, and encrypted contact mechanisms.
-
-<br/>
-
-🔗 [**Launch Doom Portfolio**](https://siva-doom-portfolio.vercel.app)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🤖 Genious Shoppy
-**Explainable AI E-Commerce Analytics**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/XAI-SHAP-FF5500?style=flat-square" />
-<img src="https://img.shields.io/badge/LIME-Interpretability-76B900?style=flat-square" />
-<img src="https://img.shields.io/badge/RFM-Clustering-8B5CF6?style=flat-square" />
-
-<br/><br/>
-
-An analytical e-commerce engine leveraging Explainable AI (SHAP & LIME) to demystify customer segmentation algorithms. Automated Python backend jobs deliver real-time campaign triggers and dynamic recommendations.
-
-<br/>
-
-📅 *July 2025* • 🔒 *Client / Enterprise Architecture*
-
-</td>
-
-<td width="50%" valign="top">
-
-### ☁️ Cloud-Native E-Commerce Platform
-**High-Availability Distributed Web App**
-
-<img src="https://img.shields.io/badge/AWS_S3-FF5500?style=flat-square&logo=amazons3&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-
-<br/><br/>
-
-A hardened e-commerce web platform engineered with Flask and MySQL, architected for high concurrency and zero-downtime asset delivery via Amazon S3 bucket integration.
-
-<br/>
-
-📅 *April 2025* • 🔒 *Client / Enterprise Architecture*
-
-</td>
-
-</tr>
-</table>
-
-</div>
+- 🛠️ **Technology Stack**: `Flask REST API` • `Amazon S3` • `MySQL` • `Python`
+- ⚡ **Engineering Highlights**: Decoupled static media assets to AWS S3 buckets, architected for high concurrency and sub-second asset delivery.
+- 🏷️ **Classification**: *Enterprise Client Architecture*
 
 <br/>
 
@@ -278,24 +214,28 @@ A hardened e-commerce web platform engineered with Flask and MySQL, architected 
 
 <div align="center">
 
+<!-- STATS CARDS (PX HEIGHT, HIGH CONTRAST) -->
 <a href="https://github.com/Siva06062005">
-  <img height="185em" src="https://github-readme-stats-fast.vercel.app/api?username=Siva06062005&show_icons=true&hide_border=true&bg_color=0C0A0D&title_color=FF0033&icon_color=FF5500&text_color=E0D8D8" alt="GitHub Stats" />
+  <img height="175" src="https://github-readme-stats-fast.vercel.app/api?username=Siva06062005&show_icons=true&hide_border=true&bg_color=0B0A0D&title_color=FF2E4C&icon_color=FF5500&text_color=FFFFFF" alt="Siva's GitHub Stats" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Siva06062005">
-  <img height="185em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Siva06062005&layout=compact&langs_count=8&hide_border=true&bg_color=0C0A0D&title_color=FF0033&text_color=E0D8D8" alt="Top Languages" />
+  <img height="175" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Siva06062005&layout=compact&langs_count=8&hide_border=true&bg_color=0B0A0D&title_color=FF2E4C&text_color=FFFFFF" alt="Top Languages" />
 </a>
 
 <br/><br/>
 
 <!-- DOOM STREAK STATS -->
 <a href="https://github.com/Siva06062005">
-  <img src="https://streak-stats.demolab.com/?user=Siva06062005&hide_border=true&background=0C0A0D&stroke=FF0033&ring=FF5500&fire=FF0033&currStreakLabel=FF0033&currStreakNum=FFFFFF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Siva06062005&hide_border=true&background=0B0A0D&stroke=FF2E4C&ring=FF5500&fire=FF2E4C&currStreakLabel=FF2E4C&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFAA00" alt="GitHub Streak" />
 </a>
 
 <br/><br/>
 
 <!-- 🐍 CONTRIBUTION SNAKE EATER (FROM ASSETS) -->
+<p align="center">
+  <b>👾 Contribution Grid Battle Stream</b>
+</p>
 <a href="https://github.com/Siva06062005">
   <img src="https://raw.githubusercontent.com/Siva06062005/Siva06062005/main/assets/github-contribution-grid-snake-dark.svg" alt="Siva's Realtime Contribution Snake Grid" width="100%" />
 </a>
@@ -314,30 +254,14 @@ A hardened e-commerce web platform engineered with Flask and MySQL, architected 
 
 ## 🎓 Academic Dossier
 
-<table width="100%">
-<tr>
-<td width="50%">
-
-### 🏛️ Institution
-**Sriram Engineering College**  
-*Perumalpattu, Tamil Nadu, India*  
-- **Degree**: Bachelor of Engineering (B.E.)
-- **Discipline**: Computer Science and Engineering
-- **Graduation**: Class of May 2026
-- **Standing**: **80% CGPA**
-
-</td>
-<td width="50%">
-
-### 🧠 Core Competencies
-- **Infrastructure Architecture**: Systems Analysis & Automated Resilience
-- **Execution**: Rapid Root-Cause Elimination & Zero Downtime
-- **Leadership**: Technical Governance & Team Collaboration
-- **Linguistics**: English (Professional) • Tamil (Native)
-
-</td>
-</tr>
-</table>
+| Academic Metric | Details & Specification |
+| :--- | :--- |
+| 🏛️ **Institution** | **Sriram Engineering College** *(Perumalpattu, Tamil Nadu, India)* |
+| 📜 **Degree** | **Bachelor of Engineering (B.E.)** in **Computer Science and Engineering** |
+| 📅 **Graduation Timeline** | Class of **May 2026** |
+| 🏆 **Performance Index** | **80% Cumulative Grade Point Average (CGPA)** |
+| 🧠 **Core Competencies** | **Infrastructure Architecture** • **Root-Cause Analysis** • **Technical Governance** • **System Resilience** |
+| 🌐 **Linguistics** | **English** *(Professional Proficiency)* • **Tamil** *(Native Fluency)* |
 
 <br/>
 
@@ -353,21 +277,23 @@ A hardened e-commerce web platform engineered with Flask and MySQL, architected 
 
 ## ⚔️ Establish Encrypted Uplink
 
-<a href="https://github.com/Siva06062005" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-Siva06062005-FF0033?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://siva-doom-portfolio.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/DOOM_PORTFOLIO-LAUNCH_GATE-FF5500?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:sivasathiya0606@gmail.com">
-  <img src="https://img.shields.io/badge/ENCRYPTED_MAIL-sivasathiya0606-8B0000?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<p align="center">
+  <a href="https://github.com/Siva06062005" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-Siva06062005-FF2E4C?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://siva-doom-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/DOOM_PORTFOLIO-LAUNCH_GATE-FF5500?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:sivasathiya0606@gmail.com">
+    <img src="https://img.shields.io/badge/ENCRYPTED_MAIL-sivasathiya0606-8B0000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<br/><br/>
+<br/>
 
 <!-- DOOM HELLFIRE FOOTER WAVE (ORBITRON FONT) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0033,50:880000,100:0C0A0D&height=160&section=footer&text=SIVA%20S%20%7C%20SLAYING%20DOWNTIME%20WITH%20CODE&fontSize=22&fontColor=FFFFFF&font=Orbitron&animation=twinkling&fontAlignY=68" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0033,50:880000,100:0B0A0D&height=160&section=footer&text=SIVA%20S%20%7C%20SLAYING%20DOWNTIME%20WITH%20CODE&fontSize=22&fontColor=FFFFFF&font=Orbitron&animation=twinkling&fontAlignY=68" width="100%" />
 
 </div>
