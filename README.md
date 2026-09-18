@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="./assets/banner.jpg" alt="Siva S — DevOps | Cloud | Automation" width="100%" />
+<img src="https://raw.githubusercontent.com/Siva06062005/Siva06062005/main/assets/banner.jpg" alt="Siva S — DevOps | Cloud | Automation" width="100%" />
 
 <br/>
 
