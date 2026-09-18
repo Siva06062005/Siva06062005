@@ -84,7 +84,7 @@ I'm **Siva S**, a Computer Science undergraduate at **Sriram Engineering College
 - 🤖 &nbsp;Background in **AI/Data Science** — ML classifiers, Explainable AI (SHAP/LIME), NLP
 - 🌐 &nbsp;Full-stack capabilities with **React.js**, **Flask**, **Java**, and **MySQL**
 - 🎓 &nbsp;B.E. Computer Science — **CGPA: 80%**
-- 📍 &nbsp;Based in **Tiruvallur / Chennai, Tamil Nadu, India**
+- 📍 &nbsp;Based in **Arakkonam, Tamil Nadu, India**
 
 <br clear="both"/>
 
@@ -193,7 +193,7 @@ I'm **Siva S**, a Computer Science undergraduate at **Sriram Engineering College
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Professional Experience
 
 <details>
-<summary><b>🔧 DevOps Intern — Burj Tech Consultancy</b> &nbsp;|&nbsp; <i>Jan 2026 – Mar 2026 &nbsp;•&nbsp; Tiruvallur, India</i></summary>
+<summary><b>🔧 DevOps Intern — Burj Tech Consultancy</b> &nbsp;|&nbsp; <i>Jan 2026 – Mar 2026 &nbsp;•&nbsp; Arakkonam, India</i></summary>
 <br/>
 
 - Automated cloud infrastructure provisioning using **Terraform**
