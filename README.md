@@ -254,7 +254,9 @@ A decentralized governance platform with React.js frontend and Java backend inte
 
 📅 *May 2026*
 
-<!-- 🔗 [View Project](YOUR_SMARTPANCHAYAT_LINK) -->
+<br/><br/>
+
+🔗 [View Repository](https://github.com/Siva06062005/Smart-Panchayat)
 
 </td>
 
