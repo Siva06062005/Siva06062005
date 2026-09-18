@@ -1,237 +1,213 @@
-<!-- ========================================== -->
-<!-- 🚀 GITHUB PROFILE README — Siva S         -->
-<!-- ========================================== -->
-
 <div align="center">
 
-<!-- BANNER -->
-<img src="https://raw.githubusercontent.com/Siva06062005/Siva06062005/main/assets/banner.jpg" alt="Siva S — DevOps | Cloud | Automation" width="100%" />
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- 🚀 HEADER BANNER & TERMINAL WELCOME                     -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-<br/>
-
-<!-- ANIMATED TYPING -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Siva+S;DevOps+%7C+Cloud+Infrastructure+%7C+Automation;Building+Scalable+%26+Reliable+Systems" alt="Typing SVG" />
+<a href="https://github.com/Siva06062005">
+  <img src="https://raw.githubusercontent.com/Siva06062005/Siva06062005/main/assets/banner.jpg" alt="Siva S — DevOps Architect" width="100%" />
 </a>
-
-<br/>
-
-<!-- PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=Siva06062005&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
 <br/><br/>
 
-<!-- SOCIAL BADGES -->
-<a href="https://github.com/Siva06062005">
-  <img src="https://img.shields.io/badge/GitHub-Siva06062005-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-&nbsp;
+<!-- ANIMATED TYPING SVG -->
 <a href="https://siva-doom-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-siva--doom--portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-&nbsp;
-<a href="mailto:sivasathiya0606@gmail.com">
-  <img src="https://img.shields.io/badge/Email-sivasathiya0606-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=110&lines=%E2%9A%A1+Initializing+Siva's+DevOps+Console...;%F0%9F%9A%80+Architecting+Scalable+Cloud+Infrastructure;%E2%99%BB%EF%B8%8F+Automating+Pipelines+with+Terraform+%26+Jenkins;%F0%9F%90%B3+Containerizing+Systems+with+Docker+%26+Linux;%F0%9F%92%A1+Innovating+with+Blockchain+%26+Applied+AI" alt="Dynamic Status" />
 </a>
 
-<!-- 
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  PLACEHOLDER: Add these badges when URLs are available      ║
-  ║                                                              ║
-  ║  LinkedIn:                                                   ║
-  ║  <a href="YOUR_LINKEDIN_URL">                                ║
-  ║    <img src="https://img.shields.io/badge/LinkedIn-Siva-     ║
-  ║    0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" ║
-  ║    alt="LinkedIn" />                                         ║
-  ║  </a>                                                        ║
-  ║                                                              ║
-  ║  LeetCode:                                                   ║
-  ║  <a href="YOUR_LEETCODE_URL">                                ║
-  ║    <img src="https://img.shields.io/badge/LeetCode-Siva-     ║
-  ║    FFA116?style=for-the-badge&logo=leetcode&logoColor=black" ║
-  ║    alt="LeetCode" />                                         ║
-  ║  </a>                                                        ║
-  ║                                                              ║
-  ║  Resume:                                                     ║
-  ║  <a href="YOUR_RESUME_URL">                                  ║
-  ║    <img src="https://img.shields.io/badge/Resume-Download-   ║
-  ║    4285F4?style=for-the-badge&logo=googledocs&logoColor=     ║
-  ║    white" alt="Resume" />                                    ║
-  ║  </a>                                                        ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
+<br/>
+
+<!-- TOP STATUS BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00F0FF?style=for-the-badge&logo=codeforces&logoColor=black" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Siva06062005&label=PROFILE_TRAFFIC&color=FF007F&style=for-the-badge" alt="Profile Hits" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LOCATION-ARAKKONAM%2C_IN-7928CA?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
+
+<!-- ACTION BUTTONS -->
+<p align="center">
+  <a href="https://siva-doom-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-LIVE_DEMO-00E599?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href="mailto:sivasathiya0606@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL_DIRECT-sivasathiya0606-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Siva06062005?tab=repositories">
+    <img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
-<!-- ==================== ABOUT ME ==================== -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- 📡 SYSTEM TERMINAL & ABOUT ME                           -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> `root@siva:~# whoami`
 
-<img align="right" alt="DevOps GIF" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+<img align="right" alt="Cyberpunk Matrix" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
-I'm **Siva S**, a Computer Science undergraduate at **Sriram Engineering College**, Tamil Nadu, graduating in **May 2026** with a focus on **DevOps, Cloud Infrastructure, and Automation**.
+```bash
+[+] SYSTEM IDENTITY
+    NAME        : Siva S
+    ROLE        : DevOps & Cloud Infrastructure Engineer
+    EDUCATION   : B.E. Computer Science @ Sriram Engineering College ('26)
+    METRIC      : 80% Academic CGPA
+    LOCATION    : Arakkonam, Tamil Nadu, India
+    SPECIALTY   : IaC (Terraform) • CI/CD (Jenkins) • Docker • Linux Optimization
 
-- 🔧 &nbsp;I specialize in **Infrastructure as Code** using Terraform, **CI/CD automation** with Jenkins, and **Docker-based deployments**
-- ☁️ &nbsp;Experienced with **AWS (EC2, S3, Elastic Beanstalk)** and **Google Cloud Platform**
-- 🐧 &nbsp;Proficient in **Linux administration** — Ubuntu server optimization, kernel tuning, EFI/GRUB management
-- ⛓️ &nbsp;Hands-on experience with **Blockchain development** — Ethereum, Solidity, Hardhat, dApps
-- 🤖 &nbsp;Background in **AI/Data Science** — ML classifiers, Explainable AI (SHAP/LIME), NLP
-- 🌐 &nbsp;Full-stack capabilities with **React.js**, **Flask**, **Java**, and **MySQL**
-- 🎓 &nbsp;B.E. Computer Science — **CGPA: 80%**
-- 📍 &nbsp;Based in **Arakkonam, Tamil Nadu, India**
+[+] CORE OPERATING OBJECTIVE
+    Engineering resilient, scalable infrastructure with automated zero-downtime
+    deployment workflows, robust cloud architecture, and secure containerization.
+```
+
+- ⚙️ **Infrastructure as Code**: Production-grade orchestration with **Terraform** & **Docker Compose**
+- 🔄 **Continuous Integration/Deployment**: Automated pipeline governance with **Jenkins** & **GitHub Actions**
+- ☁️ **Cloud Native Ecosystems**: Multi-platform delivery across **AWS (EC2, S3, Beanstalk)**, **GCP**, and **Hostinger**
+- 🐧 **Kernel & OS Administration**: Deep Linux optimization on **Ubuntu Server**, **Kali**, and **EFI/GRUB management**
+- ⛓️ **Web3 & Decentralization**: Smart contracts on **Ethereum**, tested with **Hardhat** & authored in **Solidity**
+- 🧠 **Applied Intelligence**: Interpretable machine learning utilizing **Scikit-learn**, **SHAP**, **LIME**, and **NLP**
 
 <br clear="both"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
-<!-- ==================== TECH STACK ==================== -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ⚡ TECH STACK MATRIX                                    -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> &nbsp;Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack Matrix
 
 <div align="center">
 
-### 💻 Programming Languages
+### ☁️ Cloud & DevOps Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,bash,solidity" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,terraform,jenkins,linux,ubuntu" alt="Cloud and DevOps" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
-
----
-
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css" alt="Frontend" />
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elastic_Beanstalk-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD_Pipelines-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/EFI%2FGRUB_Tuning-333333?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 ---
 
-### ⚙️ Backend
+### 💻 Core Languages & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,java,python" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=java,python,bash,solidity,mysql" alt="Languages and DB" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/SQL_Database-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity_SmartContracts-363636?style=for-the-badge&logo=solidity&logoColor=white" />
 </p>
 
 ---
 
-### 🗄️ Database
+### 🌐 Frontend & Backend Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="Database" />
+  <img src="https://skillicons.dev/icons?i=react,flask,html,css" alt="Web Tech" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flask_REST_API-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java_Backend-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
 ---
 
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,terraform,jenkins" alt="Cloud & DevOps" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="EC2" />
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3" />
-  <img src="https://img.shields.io/badge/Elastic_Beanstalk-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Elastic Beanstalk" />
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" />
-</p>
-
----
-
-### 🐧 Operating Systems
-<p>
-  <img src="https://skillicons.dev/icons?i=ubuntu,kali,windows" alt="Operating Systems" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/EFI%2FGRUB-333333?style=for-the-badge&logo=linux&logoColor=white" alt="EFI/GRUB" />
-</p>
-
----
-
-### ⛓️ Blockchain
+### ⛓️ Web3 & Blockchain Engineering
 <p>
   <img src="https://skillicons.dev/icons?i=ethereum,solidity" alt="Blockchain" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat" />
-  <img src="https://img.shields.io/badge/Smart_Contracts-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Smart Contracts" />
-  <img src="https://img.shields.io/badge/dApps-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" alt="dApps" />
+  <img src="https://img.shields.io/badge/Hardhat_Framework-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" />
+  <img src="https://img.shields.io/badge/dApp_Architecture-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Decentralized_Ledgers-111111?style=for-the-badge&logo=web3dotjs&logoColor=white" />
 </p>
 
 ---
 
-### 🤖 AI & Data Science
+### 🤖 AI, Explainability & Data Science
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/NLP-4EA94B?style=for-the-badge&logo=spacy&logoColor=white" alt="NLP" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge" alt="SHAP" />
-  <img src="https://img.shields.io/badge/LIME-76B900?style=for-the-badge" alt="LIME" />
-  <img src="https://img.shields.io/badge/RFM_Analysis-8B5CF6?style=for-the-badge" alt="RFM Analysis" />
-  <img src="https://img.shields.io/badge/K--Means-FF4081?style=for-the-badge" alt="K-Means" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Explainable_AI_(SHAP)-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LIME_Interpretability-76B900?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RFM_Analytics-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/K--Means_Clustering-FF4081?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP_Workflows-4EA94B?style=for-the-badge&logo=spacy&logoColor=white" />
 </p>
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
-<!-- ==================== EXPERIENCE ==================== -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- 💼 EXPERIENCE TIMELINE                                  -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Professional Experience
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Experience Timeline
 
-<details>
-<summary><b>🔧 DevOps Intern — Burj Tech Consultancy</b> &nbsp;|&nbsp; <i>Jan 2026 – Mar 2026 &nbsp;•&nbsp; Arakkonam, India</i></summary>
-<br/>
+<table width="100%">
+<tr>
+<td>
 
-- Automated cloud infrastructure provisioning using **Terraform**
-- Managed end-to-end **CI/CD pipelines** using **Jenkins**
-- Utilized **Docker Compose** for multi-container orchestration
-- Performed **Ubuntu kernel and server optimization**
-- Conducted root-cause analysis for system failures and infrastructure issues
+### 🔧 DevOps Intern — Burj Tech Consultancy
+`Jan 2026 – Mar 2026 • Arakkonam, India`
+- ⚡ Engineered **Terraform** blueprints for declarative, reproducible cloud provisioning.
+- 🔄 Built high-speed **CI/CD build-test-deploy pipelines** using **Jenkins**.
+- 🐳 Configured **Docker Compose** architectures for containerized microservice workflows.
+- 🐧 Spearheaded **Ubuntu kernel & server tuning** to reduce latency and resource bottlenecks.
+- 🔍 Led systematic root-cause investigations resolving infrastructure and networking crashes.
 
-</details>
+---
 
-<details>
-<summary><b>🤖 Data Science & AI Intern — Rasa AI Labs</b> &nbsp;|&nbsp; <i>Jun 2025 – Jul 2025 &nbsp;•&nbsp; Chennai, India</i></summary>
-<br/>
+### 🤖 Data Science & AI Intern — Rasa AI Labs
+`Jun 2025 – Jul 2025 • Chennai, India`
+- 🌐 Configured scalable production environments for real-time AI model serving with high availability.
+- 📈 Collaborated on infrastructure performance optimization for high-throughput distributed data workloads.
 
-- Configured scalable deployment environments for real-time AI models with high availability
-- Collaborated on infrastructure performance tuning for large-scale data processing workloads
+---
 
-</details>
+### 📊 Data Science Intern — Remark Skill Education (IIT Hyderabad)
+`Apr 2025 – May 2025 • Remote`
+- 🐍 Engineered automated Python ETL scripts cutting down preprocessing time significantly.
+- 🎯 Trained predictive machine learning classifiers using **Scikit-learn** to generate strategic business intelligence.
 
-<details>
-<summary><b>📊 Data Science Intern — Remark Skill Education (IIT Hyderabad)</b> &nbsp;|&nbsp; <i>Apr 2025 – May 2025 &nbsp;•&nbsp; Remote</i></summary>
-<br/>
-
-- Developed automated data extraction scripts using **Python**
-- Improved preprocessing efficiency for analytical pipelines
-- Built predictive ML classifiers using **Scikit-learn** to derive actionable business insights
-
-</details>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</td>
+</tr>
+</table>
 
 <br/>
 
-<!-- ==================== PROJECTS ==================== -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Featured Projects
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- 🚀 FEATURED HIGHLIGHTED PROJECTS                        -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
 
 <div align="center">
 
@@ -241,42 +217,43 @@ I'm **Siva S**, a Computer Science undergraduate at **Sriram Engineering College
 <td width="50%" valign="top">
 
 ### ⛓️ SmartPanchayat
-**Blockchain Governance dApp**
+**Decentralized Governance dApp**
 
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+<img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black" />
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black" />
-<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
 
 <br/><br/>
 
-A decentralized governance platform with React.js frontend and Java backend integration. Features Hardhat-based smart contract deployment and an immutable ledger on Ethereum for transparent fund tracking.
+A transparent community governance platform pairing an immutable Ethereum blockchain ledger with a React frontend and Java backend. Features Hardhat-tested smart contracts guaranteeing verifiable public fund tracking.
 
-📅 *May 2026*
+<br/>
 
-<br/><br/>
-
-🔗 [View Repository](https://github.com/Siva06062005/Smart-Panchayat)
+📅 *May 2026*  
+👉 [**Explore Smart-Panchayat Repository**](https://github.com/Siva06062005/Smart-Panchayat)
 
 </td>
 
 <td width="50%" valign="top">
 
 ### 🤖 Genious Shoppy
-**AI E-commerce Analytics**
+**Explainable AI E-Commerce Analytics**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SHAP-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/XAI_(SHAP)-FF6F00?style=flat-square" />
 <img src="https://img.shields.io/badge/LIME-76B900?style=flat-square" />
-<img src="https://img.shields.io/badge/RFM_Analysis-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/RFM_Clustering-8B5CF6?style=flat-square" />
 
 <br/><br/>
 
-Integrated Explainable AI using SHAP and LIME for transparent customer segmentation. Optimized pricing strategies and campaign triggers through automated Python backend services.
+An analytical e-commerce engine leveraging Explainable AI (SHAP & LIME) to demystify customer segmentation algorithms. Features automated Python backend jobs for real-time campaign triggers and pricing recommendations.
 
-📅 *July 2025*
+<br/>
 
-<!-- 🔗 [View Project](YOUR_GENIOUS_SHOPPY_LINK) -->
+📅 *July 2025*  
+*(Source available upon request)*
 
 </td>
 
@@ -286,35 +263,40 @@ Integrated Explainable AI using SHAP and LIME for transparent customer segmentat
 
 <td width="50%" valign="top">
 
-### ☁️ Scalable E-Commerce Web App
-**Cloud-Native Platform**
+### ☁️ Cloud-Native E-Commerce Platform
+**High-Availability Distributed Web App**
 
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
 <br/><br/>
 
-A secure e-commerce platform using Flask and MySQL optimized for high availability. Architected cloud storage using AWS S3 for efficient static asset and image management.
+A hardened e-commerce web platform engineered with Flask and MySQL, architected for high concurrency and zero-downtime asset delivery via Amazon S3 bucket integration.
 
-📅 *April 2025*
+<br/>
 
-<!-- 🔗 [View Project](YOUR_ECOMMERCE_LINK) -->
+📅 *April 2025*  
+*(Source available upon request)*
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌐 Portfolio Website
+### 🌐 Siva Doom Portfolio
+**Personal Cyber-Themed Portfolio**
 
-<img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Live_Deployment-00E599?style=flat-square&logo=vercel&logoColor=black" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
 <br/><br/>
 
-My personal developer portfolio showcasing projects, skills, and experience.
+Interactive, futuristic web portfolio presenting projects, technical proficiencies, resume highlights, and direct contact mechanisms.
 
-🔗 [Visit Portfolio](https://siva-doom-portfolio.vercel.app)
+<br/>
+
+🔗 [**Launch Portfolio Website**](https://siva-doom-portfolio.vercel.app)
 
 </td>
 
@@ -325,191 +307,115 @@ My personal developer portfolio showcasing projects, skills, and experience.
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
-<!-- ==================== EDUCATION ==================== -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- 📊 GITHUB METRICS & RADAR                               -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-## 🎓 &nbsp;Education
-
-| | |
-|---|---|
-| **🏛️ Institution** | Sriram Engineering College, Perumalpattu, Tamil Nadu |
-| **📜 Degree** | Bachelor of Engineering (B.E.) |
-| **💻 Department** | Computer Science |
-| **📅 Graduation** | May 2026 |
-| **📊 CGPA** | 80% |
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ==================== GITHUB STATS ==================== -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;GitHub Analytics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Telemetry & Activity
 
 <div align="center">
 
 <a href="https://github.com/Siva06062005">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Siva06062005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Siva's GitHub Stats" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Siva06062005&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=05050A&title_color=00F0FF&icon_color=FF007F&text_color=E0E0E0" alt="GitHub Stats" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Siva06062005">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siva06062005&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siva06062005&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=05050A&title_color=00F0FF&text_color=E0E0E0" alt="Top Languages" />
 </a>
 
 <br/><br/>
 
-<!-- GITHUB STREAK -->
+<!-- STREAK STATS -->
 <a href="https://github.com/Siva06062005">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siva06062005&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E40&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siva06062005&theme=radical&hide_border=true&background=05050A&stroke=00F0FF&ring=FF007F&fire=00F0FF&currStreakLabel=00F0FF" alt="GitHub Streak" />
 </a>
 
 <br/><br/>
 
-<!-- CONTRIBUTION GRAPH -->
+<!-- ACTIVITY GRAPH -->
 <a href="https://github.com/Siva06062005">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siva06062005&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6E40" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siva06062005&theme=radical&hide_border=true&bg_color=05050A&color=00F0FF&line=FF007F&point=00F0FF" alt="Contribution Graph" />
+</a>
+
+<br/><br/>
+
+<!-- TROPHIES -->
+<a href="https://github.com/Siva06062005">
+  <img src="https://github-profile-trophy.vercel.app/?username=Siva06062005&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
 </a>
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
-<!-- ==================== TROPHIES ==================== -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- 🎓 ACADEMICS & COMPETENCIES                             -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-<div align="center">
+## 🎓 Academic Blueprint
 
-## 🏆 &nbsp;GitHub Trophies
-
-<a href="https://github.com/Siva06062005">
-  <img src="https://github-profile-trophy.vercel.app/?username=Siva06062005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
-</a>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ==================== SOFT SKILLS ==================== -->
-
-## 🧠 &nbsp;Soft Skills
-
-<div align="center">
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="25%">
+<td width="50%">
 
-**🎯 Leadership**
-
-</td>
-<td align="center" width="25%">
-
-**🔍 Troubleshooting**
-
-</td>
-<td align="center" width="25%">
-
-**🤝 Team Collaboration**
+### 🏛️ University
+**Sriram Engineering College**  
+*Perumalpattu, Tamil Nadu*  
+- **Degree**: Bachelor of Engineering (B.E.)
+- **Department**: Computer Science and Engineering
+- **Graduation**: Class of May 2026
+- **Performance**: **80% CGPA**
 
 </td>
-<td align="center" width="25%">
+<td width="50%">
 
-**💡 Critical Thinking**
+### 🧠 Core Competencies
+- **Architecture**: Critical Thinking & Systems Analysis
+- **Execution**: Troubleshooting & Root-Cause Elimination
+- **Governance**: Collaborative Team Leadership
+- **Communication**: English (Professional) • Tamil (Native)
 
 </td>
 </tr>
 </table>
-</div>
 
 <br/>
 
-<!-- ==================== LANGUAGES ==================== -->
-
-## 🗣️ &nbsp;Languages
-
-| Language | Proficiency |
-|----------|-------------|
-| 🇬🇧 English | Professional |
-| 🇮🇳 Tamil | Native |
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ==================== CONNECT ==================== -->
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp;Let's Connect
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- 🤝 TERMINAL FOOTER & CONNECT                            -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
+## 📡 Initialize Direct Connection
+
 <a href="https://github.com/Siva06062005" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GITHUB-Siva06062005-00F0FF?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 &nbsp;
 <a href="https://siva-doom-portfolio.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-VIEW_ONLINE-FF007F?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:sivasathiya0606@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://img.shields.io/badge/GMAIL-DIRECT_CONTACT-7928CA?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<!-- 
-  ╔══════════════════════════════════════════════════════════╗
-  ║  Add these when URLs are available:                      ║
-  ║                                                          ║
-  ║  <a href="YOUR_LINKEDIN_URL" target="_blank">            ║
-  ║    <img src="https://img.shields.io/badge/LinkedIn-      ║
-  ║    0A66C2?style=for-the-badge&logo=linkedin&logoColor=   ║
-  ║    white" alt="LinkedIn" />                              ║
-  ║  </a>                                                    ║
-  ║                                                          ║
-  ║  <a href="YOUR_LEETCODE_URL" target="_blank">            ║
-  ║    <img src="https://img.shields.io/badge/LeetCode-      ║
-  ║    FFA116?style=for-the-badge&logo=leetcode&logoColor=   ║
-  ║    black" alt="LeetCode" />                              ║
-  ║  </a>                                                    ║
-  ║                                                          ║
-  ║  <a href="YOUR_RESUME_URL" target="_blank">              ║
-  ║    <img src="https://img.shields.io/badge/Resume-        ║
-  ║    4285F4?style=for-the-badge&logo=googledocs&logoColor= ║
-  ║    white" alt="Resume" />                                ║
-  ║  </a>                                                    ║
-  ╚══════════════════════════════════════════════════════════╝
--->
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=FFFFFF&animation=twinkling&fontAlignY=70" width="100%" />
+<!-- GLOWING FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=160&section=footer&text=SIVA%20S%20%7C%20BUILDING%20FOR%20THE%20FUTURE&fontSize=22&fontColor=00F0FF&animation=twinkling&fontAlignY=68" width="100%" />
 
 </div>
-
-<!-- ==================== SNAKE ANIMATION ==================== -->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Siva06062005/Siva06062005/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  NOTE: To enable the snake animation above, you need to     ║
-  ║  set up a GitHub Action in your profile repository.         ║
-  ║                                                              ║
-  ║  Create .github/workflows/snake.yml with the snake          ║
-  ║  contribution graph action. If you don't want to set this   ║
-  ║  up, the image will simply not render (no broken image).    ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
